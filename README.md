@@ -1,0 +1,2 @@
+# arcgis-gifs
+Animated GIFs
